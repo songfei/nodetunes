@@ -1,9 +1,13 @@
 {
-  "name": "nodetunes",
+  "name": "nodetunes2",
   "version": "0.3.0",
   "author": "Stephen Wan <stephen@stephenwan.net>",
   "description": "AirTunes v2 Server Implementation",
   "contributors": [
+    {
+      "name": "songfei",
+      "email": "songfei.org@qq.com"
+    },
     {
       "name": "Stephen Wan",
       "email": "stephen@stephenwan.net"
@@ -18,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/stephen/nodetunes.git"
+    "url": "https://github.com/songfei/nodetunes.git"
   },
   "dependencies": {
     "alac2pcm": "^1.1.0",
